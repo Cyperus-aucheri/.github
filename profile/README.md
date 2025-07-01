@@ -30,7 +30,7 @@ His main project at the moment is a [React based Chess game](https://github.com/
 <img src="https://i.redd.it/j8pbhmaekz6d1.png" width=50% height=50%>
 
 ## Alfie
-[Ice (Alfie]))(https://github.com/5upern1ce) is a jack of all trades, master of some! With a rich knowledge of hardware and a love for old computer systems, he comes off as a nerd often! His obsession with Nintendo might be a little unhealthy... but whatever!
+[Ice (Alfie)](https://github.com/5upern1ce) is a jack of all trades, master of some! With a rich knowledge of hardware and a love for old computer systems, he comes off as a nerd often! His obsession with Nintendo might be a little unhealthy... but whatever!
 
 *A Sword Wields No Strength Unless The Hand That Holds It Has Courage.* - The hero's shade, Zelda: Twilight Princess  
 
