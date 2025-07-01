@@ -10,13 +10,13 @@ Whatever the college asks of us or whatever we want to!
 
 As of right now, we are at work placement and working to create code to tranfer WebForms authentication to [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)!  
 
-We are using a (reverse proxy)[https://github.com/dotnet/yarp] with our own code, and it's nearly done!  
+We are using a [reverse proxy](https://github.com/dotnet/yarp) with our own code, and it's nearly done!  
 
 # Meet us all!
 ## Liam
 [Enqu (Liam)](https://github.com/liamg2810) is a talented web developer who has had experience with nearly every language or framework you can imagine! 
 
-His main project at the moment is a (React based Chess game)[https://github.com/liamg2810/chess-react] ; and it's coming along very impressively! 
+His main project at the moment is a [React based Chess game](https://github.com/liamg2810/chess-react) ; and it's coming along very impressively! 
 
 *Only a Sith deals in absolutes* - Obi-Wan Kenobi
 
@@ -30,7 +30,7 @@ His main project at the moment is a (React based Chess game)[https://github.com/
 <img src="https://i.redd.it/j8pbhmaekz6d1.png" width=50% height=50%>
 
 ## Alfie
-[Ice](https://github.com/5upern1ce) is a jack of all trades, master of some! With a rich knowledge of hardware and a love for old computer systems, he comes off as a nerd often! His obsession with Nintendo might be a little unhealthy... but whatever!
+[Ice (Alfie]))(https://github.com/5upern1ce) is a jack of all trades, master of some! With a rich knowledge of hardware and a love for old computer systems, he comes off as a nerd often! His obsession with Nintendo might be a little unhealthy... but whatever!
 
 *A Sword Wields No Strength Unless The Hand That Holds It Has Courage.* - The hero's shade, Zelda: Twilight Princess  
 
