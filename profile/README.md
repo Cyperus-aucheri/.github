@@ -16,7 +16,7 @@ We are using a (reverse proxy)[https://github.com/dotnet/yarp] with our own code
 ## Liam
 [Enqu (Liam)](https://github.com/liamg2810) is a talented web developer who has had experience with nearly every language or framework you can imagine! 
 
-His main project at the moment is a (React based Chess game)[https://github.com/liamg2810/chess-react]; and it's coming along very impressively! 
+His main project at the moment is a (React based Chess game)[https://github.com/liamg2810/chess-react] ; and it's coming along very impressively! 
 
 *Only a Sith deals in absolutes* - Obi-Wan Kenobi
 
