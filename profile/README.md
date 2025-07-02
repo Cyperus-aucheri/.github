@@ -20,7 +20,7 @@
 
 -   📍 **Work Placement**: Transferring WebForms authentication to [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 -   🔄 Using a [reverse proxy](https://github.com/dotnet/yarp) with our custom code
--   ✅ **Status**: [COMPLETED!](https://github.com/liamg2810/WebFormsApplicationWithBlazorApplication) 🎉
+-   ✅ **Status**: [COMPLETED!](https://github.com/Cyperus-aucheri/WebFormsApplicationWithBlazorApplication) 🎉
 
 ---
 
