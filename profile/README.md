@@ -58,7 +58,7 @@
 
 **🎯 Interests:** Spending most of his time doing runs in ultrakill or creating roblox games - he's an unstoppable machine!
 
-> 💀 _"Mankind is dead... Blood is fuel... Hell is full!"_ - ultrakill
+> 💀 _"Mankind is dead... Blood is fuel... Hell is full!"_ - ULTRAKILL
 
 </div>
 
